@@ -1,0 +1,121 @@
+[
+  {
+    "id": "carpet-01",
+    "name": "Carpet 1 \u00b7 Soft neutral floral",
+    "image": "assets/carpets/carpet-01.webp",
+    "color": "#c5bcb6",
+    "aspect": 0.6955555555555556,
+    "sourceAttachment": "carpet 1.jpg",
+    "cropBox": [
+      189,
+      50,
+      815,
+      950
+    ],
+    "price": null,
+    "widthMetres": null,
+    "lengthMetres": null
+  },
+  {
+    "id": "carpet-02",
+    "name": "Carpet 2 \u00b7 Natural beige weave",
+    "image": "assets/carpets/carpet-02.webp",
+    "color": "#e5dfd8",
+    "aspect": 0.6975717439293598,
+    "sourceAttachment": "carpert 2.jpeg",
+    "cropBox": [
+      92,
+      26,
+      408,
+      479
+    ],
+    "price": null,
+    "widthMetres": null,
+    "lengthMetres": null
+  },
+  {
+    "id": "carpet-03",
+    "name": "Carpet 3 \u00b7 Multicolour animal stripes",
+    "image": "assets/carpets/carpet-03.webp",
+    "color": "#d2d9be",
+    "aspect": 0.6578366445916115,
+    "sourceAttachment": "carpert 3.jpeg",
+    "cropBox": [
+      102,
+      26,
+      400,
+      479
+    ],
+    "price": null,
+    "widthMetres": null,
+    "lengthMetres": null
+  },
+  {
+    "id": "carpet-04",
+    "name": "Carpet 4 \u00b7 Red and navy medallion",
+    "image": "assets/carpets/carpet-04.webp",
+    "color": "#89878b",
+    "aspect": 0.698237885462555,
+    "sourceAttachment": "carpert 4.jpeg",
+    "cropBox": [
+      107,
+      26,
+      424,
+      480
+    ],
+    "price": null,
+    "widthMetres": null,
+    "lengthMetres": null
+  },
+  {
+    "id": "carpet-05",
+    "name": "Carpet 5 \u00b7 Navy geometric medallions",
+    "image": "assets/carpets/carpet-05.webp",
+    "color": "#666467",
+    "aspect": 0.7196467991169978,
+    "sourceAttachment": "carpert 5.jpeg",
+    "cropBox": [
+      87,
+      26,
+      413,
+      479
+    ],
+    "price": null,
+    "widthMetres": null,
+    "lengthMetres": null
+  },
+  {
+    "id": "carpet-06",
+    "name": "Carpet 6 \u00b7 Red and ivory medallion",
+    "image": "assets/carpets/carpet-06.webp",
+    "color": "#ecdcd6",
+    "aspect": 0.7158590308370044,
+    "sourceAttachment": "carpert 6.jpeg",
+    "cropBox": [
+      103,
+      25,
+      428,
+      479
+    ],
+    "price": null,
+    "widthMetres": null,
+    "lengthMetres": null
+  },
+  {
+    "id": "carpet-07",
+    "name": "Carpet 7 \u00b7 Brown and gold floral",
+    "image": "assets/carpets/carpet-07.webp",
+    "color": "#e0dcda",
+    "aspect": 0.7123893805309734,
+    "sourceAttachment": "carpert 7.jpeg",
+    "cropBox": [
+      89,
+      25,
+      411,
+      477
+    ],
+    "price": null,
+    "widthMetres": null,
+    "lengthMetres": null
+  }
+]
