@@ -78,5 +78,205 @@
     "heightMetres": null,
     "price": null,
     "label": "Upload 8"
+  },
+  {
+    "id": "tile-10",
+    "name": "Blue-grey rustic stone squares",
+    "image": "assets/tiles/tile-10.webp",
+    "color": "#89897a",
+    "sourceAttachments": [
+      "floor 10.jpeg"
+    ],
+    "widthMetres": null,
+    "heightMetres": null,
+    "price": null,
+    "label": "Upload 10",
+    "aspect": 1.0,
+    "cropBox": [
+      23,
+      23,
+      477,
+      477
+    ]
+  },
+  {
+    "id": "tile-11",
+    "name": "Warm pebble mosaic",
+    "image": "assets/tiles/tile-11.webp",
+    "color": "#d6b777",
+    "sourceAttachments": [
+      "floor 11.jpeg"
+    ],
+    "widthMetres": null,
+    "heightMetres": null,
+    "price": null,
+    "label": "Upload 11",
+    "aspect": 1.0199115044247788,
+    "cropBox": [
+      23,
+      26,
+      484,
+      478
+    ]
+  },
+  {
+    "id": "tile-12",
+    "name": "White square mosaic",
+    "image": "assets/tiles/tile-12.webp",
+    "color": "#e6e4e7",
+    "sourceAttachments": [
+      "floor 12.jpeg"
+    ],
+    "widthMetres": null,
+    "heightMetres": null,
+    "price": null,
+    "label": "Upload 12",
+    "aspect": 1.0,
+    "cropBox": [
+      0,
+      0,
+      500,
+      500
+    ]
+  },
+  {
+    "id": "tile-13",
+    "name": "Honey wood-look tile",
+    "image": "assets/tiles/tile-13.webp",
+    "color": "#ecc38e",
+    "sourceAttachments": [
+      "floor 13.jpeg"
+    ],
+    "widthMetres": null,
+    "heightMetres": null,
+    "price": null,
+    "label": "Upload 13",
+    "aspect": 0.7070484581497798,
+    "cropBox": [
+      89,
+      24,
+      410,
+      478
+    ]
+  },
+  {
+    "id": "tile-14",
+    "name": "Textured light-grey stone",
+    "image": "assets/tiles/tile-14.webp",
+    "color": "#abb2bb",
+    "sourceAttachments": [
+      "floor 14.jpeg"
+    ],
+    "widthMetres": null,
+    "heightMetres": null,
+    "price": null,
+    "label": "Upload 14",
+    "aspect": 1.51,
+    "cropBox": [
+      24,
+      113,
+      477,
+      413
+    ]
+  },
+  {
+    "id": "tile-15",
+    "name": "Charcoal fine-grain tile",
+    "image": "assets/tiles/tile-15.webp",
+    "color": "#898692",
+    "sourceAttachments": [
+      "floor 15.jpeg"
+    ],
+    "widthMetres": null,
+    "heightMetres": null,
+    "price": null,
+    "label": "Upload 15",
+    "aspect": 1.0,
+    "cropBox": [
+      0,
+      0,
+      500,
+      500
+    ]
+  },
+  {
+    "id": "tile-16",
+    "name": "Soft warm-grey fine-grain tile",
+    "image": "assets/tiles/tile-16.webp",
+    "color": "#b6aeb0",
+    "sourceAttachments": [
+      "floor 16.jpeg"
+    ],
+    "widthMetres": null,
+    "heightMetres": null,
+    "price": null,
+    "label": "Upload 16",
+    "aspect": 1.0,
+    "cropBox": [
+      0,
+      0,
+      500,
+      500
+    ]
+  },
+  {
+    "id": "tile-17",
+    "name": "Natural wood-look plank",
+    "image": "assets/tiles/tile-17.webp",
+    "color": "#b19275",
+    "sourceAttachments": [
+      "floor 17.jpeg"
+    ],
+    "widthMetres": null,
+    "heightMetres": null,
+    "price": null,
+    "label": "Upload 17",
+    "aspect": 0.25277161862527714,
+    "cropBox": [
+      193,
+      23,
+      307,
+      474
+    ]
+  },
+  {
+    "id": "tile-18",
+    "name": "Dark walnut-look plank",
+    "image": "assets/tiles/tile-18.webp",
+    "color": "#69503f",
+    "sourceAttachments": [
+      "floor 18.jpeg"
+    ],
+    "widthMetres": null,
+    "heightMetres": null,
+    "price": null,
+    "label": "Upload 18",
+    "aspect": 5.935064935064935,
+    "cropBox": [
+      23,
+      211,
+      480,
+      288
+    ]
+  },
+  {
+    "id": "tile-19",
+    "name": "Weathered beige wood-look plank",
+    "image": "assets/tiles/tile-19.webp",
+    "color": "#9a8b6e",
+    "sourceAttachments": [
+      "floor 19.jpeg"
+    ],
+    "widthMetres": null,
+    "heightMetres": null,
+    "price": null,
+    "label": "Upload 19",
+    "aspect": 4.080357142857143,
+    "cropBox": [
+      23,
+      194,
+      480,
+      306
+    ]
   }
 ]

@@ -16,3 +16,5 @@ header>a:first-child{flex-shrink:0;display:flex;align-items:center}header img{wi
 .floor-photo-choice{display:flex;gap:12px;align-items:center}.floor-photo-choice img{width:60px;height:60px;object-fit:cover;flex-shrink:0}.floor-photo-choice strong{display:block;font-size:12px;line-height:1.5}.floor-photo-choice small{font-size:10px;color:var(--muted)}#tile-controls{border-top:1px solid var(--pink-line);margin-top:18px;padding-top:20px}#tile-controls select{display:block;width:100%;padding:9px;margin-top:8px;border:1px solid var(--line);background:white}#tile-controls .note{margin:14px 0 22px}
 
 .carpet-chip{display:block;width:100%;height:145px;object-fit:contain;background:#f7f5f1}#carpet-materials strong{line-height:1.4}
+
+.no-grout-option{display:flex;align-items:center;gap:8px}.no-grout-option input{width:auto;margin:0;accent-color:var(--pink)}.floor-photo-choice img{object-fit:contain}
