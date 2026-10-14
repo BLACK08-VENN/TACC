@@ -9,3 +9,9 @@ Run `python3 -m http.server 8080` from this folder, then open http://localhost:8
 ## Deploy
 
 Import this repository into Vercel using the Other framework preset. The static files are served from the repository root. No install or build step is required.
+
+## Fabric studio
+
+Fabric → Upholstery / Curtains / Cushions. Upholstery supports L-shaped seating, two accent chairs, a two-seater and a six-seat 3+2+1 arrangement. Furniture shapes are illustrative.
+
+Product references, source image URLs, widths, prices and verification date are stored in `assets/fabrics/catalog.json`. Only records with `perMetre: true` have a confirmed per-metre unit. Other prices are listing prices, and estimates require the customer to enter their confirmed quoted rate. Fabric requirements are entered by the customer; the app does not infer yardage from sample furniture geometry.

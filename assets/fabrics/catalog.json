@@ -1,0 +1,75 @@
+[
+  {
+    "id": "molfino",
+    "name": "Molfino Vista \u00b7 Beige/Cream",
+    "price": 1750,
+    "width": 140,
+    "uses": [
+      "sofa",
+      "cushion"
+    ],
+    "color": "#c9bfa9",
+    "kind": "linen",
+    "perMetre": false,
+    "ref": "QMOLFINO2 / 1",
+    "url": "https://tacc.co.ke/product/molfino-vista-plain-upholstery-furnishing-fabric-140cm-beige-cream/",
+    "image": "assets/fabrics/molfino.webp",
+    "sourceImage": "https://tacc.co.ke/wp-content/uploads/2025/05/QMOLFINO2_1_1.jpg",
+    "checked": "2026-10-14",
+    "texture": "assets/fabrics/molfino-texture.webp"
+  },
+  {
+    "id": "pincheck",
+    "name": "Pincheck \u00b7 Umber",
+    "price": 1500,
+    "width": 140,
+    "uses": [
+      "sofa",
+      "cushion"
+    ],
+    "color": "#857268",
+    "kind": "linen",
+    "perMetre": false,
+    "ref": "QWIFERA / 161",
+    "url": "https://tacc.co.ke/product/wifera-upholstery-furnishing-fabric-140cm-4/",
+    "image": "assets/fabrics/pincheck.webp",
+    "sourceImage": "https://tacc.co.ke/wp-content/uploads/2025/03/QWIFERA_161_1.jpg",
+    "checked": "2026-10-14",
+    "texture": "assets/fabrics/pincheck-texture.webp"
+  },
+  {
+    "id": "menia",
+    "name": "MENIA \u00b7 Blue",
+    "price": 400,
+    "width": 280,
+    "uses": [
+      "curtain"
+    ],
+    "color": "#7289a6",
+    "kind": "linen",
+    "perMetre": false,
+    "ref": "QMENIA / 4",
+    "url": "https://tacc.co.ke/product/menia-a027109-913-blue-furnishing-fabric-280cm/",
+    "image": "assets/fabrics/menia.webp",
+    "sourceImage": "https://tacc.co.ke/wp-content/uploads/2025/05/QMENIA_4_1.jpg",
+    "checked": "2026-10-14",
+    "texture": "assets/fabrics/menia-texture.webp"
+  },
+  {
+    "id": "shanghai",
+    "name": "Shanghai Crepe Voile",
+    "price": 650,
+    "width": 280,
+    "uses": [
+      "curtain"
+    ],
+    "color": "#efe8df",
+    "kind": "sheer",
+    "perMetre": true,
+    "ref": "QVOILE32 / 2",
+    "url": "https://tacc.co.ke/product/mitsui-shanghai-crepe-voile-fabric-280cm/",
+    "image": "assets/fabrics/shanghai.webp",
+    "sourceImage": "https://tacc.co.ke/wp-content/uploads/2025/03/QVOILE32_2_1.jpg",
+    "checked": "2026-10-14"
+  }
+]
