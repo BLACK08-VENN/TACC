@@ -18,3 +18,5 @@ header>a:first-child{flex-shrink:0;display:flex;align-items:center}header img{wi
 .carpet-chip{display:block;width:100%;height:145px;object-fit:contain;background:#f7f5f1}#carpet-materials strong{line-height:1.4}
 
 .no-grout-option{display:flex;align-items:center;gap:8px}.no-grout-option input{width:auto;margin:0;accent-color:var(--pink)}.floor-photo-choice img{object-fit:contain}
+
+.cushion-product-grid{display:grid;grid-template-columns:1fr 1fr;gap:10px;margin:16px 0 24px}.cushion-product-grid article{border:1px solid var(--pink-line);padding:8px;background:white}.cushion-product-grid img{width:100%;height:125px;object-fit:contain}.cushion-product-grid strong{display:block;font-size:11px;line-height:1.4;margin:8px 0}.cushion-product-grid small{display:block;font-size:10px;color:var(--muted);margin:6px 0}.cushion-product-grid button{width:100%;font-size:10px;padding:8px 4px;color:var(--pink);border-color:var(--pink-line)}.cushion-product-grid a{display:block;font-size:10px;margin-top:8px;color:var(--pink)}
