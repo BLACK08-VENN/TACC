@@ -1,0 +1,82 @@
+[
+  {
+    "id": "tile-01",
+    "name": "Decorative pebble pattern",
+    "image": "assets/tiles/tile-01.webp",
+    "color": "#bf9b8d",
+    "sourceAttachments": [
+      "floor 1.jpeg"
+    ],
+    "widthMetres": null,
+    "heightMetres": null,
+    "price": null,
+    "label": "Upload 1"
+  },
+  {
+    "id": "tile-02",
+    "name": "Warm wood-look tile",
+    "image": "assets/tiles/tile-02.webp",
+    "color": "#b1936d",
+    "sourceAttachments": [
+      "floor 2.jpeg",
+      "floor 7.jpeg"
+    ],
+    "widthMetres": null,
+    "heightMetres": null,
+    "price": null,
+    "label": "Upload 2, 7"
+  },
+  {
+    "id": "tile-03",
+    "name": "Earth-toned stone-look tile",
+    "image": "assets/tiles/tile-03.webp",
+    "color": "#b68c5f",
+    "sourceAttachments": [
+      "tile 3.jpeg",
+      "floor 9.jpeg"
+    ],
+    "widthMetres": null,
+    "heightMetres": null,
+    "price": null,
+    "label": "Upload 3, 9"
+  },
+  {
+    "id": "tile-04",
+    "name": "Basketweave wood-look tile",
+    "image": "assets/tiles/tile-04.webp",
+    "color": "#ca9f77",
+    "sourceAttachments": [
+      "floor 4.jpeg"
+    ],
+    "widthMetres": null,
+    "heightMetres": null,
+    "price": null,
+    "label": "Upload 4"
+  },
+  {
+    "id": "tile-06",
+    "name": "Soft beige stone-look tile",
+    "image": "assets/tiles/tile-06.webp",
+    "color": "#e4d2c2",
+    "sourceAttachments": [
+      "floor 6.jpeg"
+    ],
+    "widthMetres": null,
+    "heightMetres": null,
+    "price": null,
+    "label": "Upload 6"
+  },
+  {
+    "id": "tile-08",
+    "name": "Ivory veined stone-look tile",
+    "image": "assets/tiles/tile-08.webp",
+    "color": "#ede4db",
+    "sourceAttachments": [
+      "floor 8.jpeg"
+    ],
+    "widthMetres": null,
+    "heightMetres": null,
+    "price": null,
+    "label": "Upload 8"
+  }
+]

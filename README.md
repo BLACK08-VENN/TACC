@@ -19,3 +19,7 @@ Product references, source image URLs, widths, prices and verification date are 
 ## Approved upholstery collection
 
 The 12 upholstery swatches supplied by the client are tagged `approved` in the fabric catalogue. Nine uploaded images have descriptive preview names until product identity and pricing are supplied. Galaxy Cream, Nurnberg Brown Floral and Molfino Dark Green are identified from uploaded saved TACC product pages. Listed prices are separate from confirmed per-metre rates. Photo proportions are preserved in texture mapping, with adjustable visual pattern size. Older fabrics remain available only for saved-design compatibility.
+
+## Client-selected tiles
+
+Eight uploaded photos correspond to six distinct tile designs. Exact image duplicates (uploads 2/7 and 3/9) share one option. Tile dimensions, grout and surface finish are user-adjustable visual assumptions until the actual specifications are supplied. Source references are in `assets/tiles/catalog.json`; no product price is inferred from the photos.
