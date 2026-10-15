@@ -4,11 +4,11 @@ Interactive Three.js room designer with TACC branding, textured floors, glass ba
 
 ## Run locally
 
-Run `python3 -m http.server 8080` from this folder, then open http://localhost:8080.
+Run `bash scripts/build-catalog.sh`, then `python3 -m http.server 8080 --directory dist`. Open http://localhost:8080. The build extracts the catalogue photo packs into individual static images.
 
 ## Deploy
 
-Import this repository into Vercel using the Other framework preset. The static files are served from the repository root. No install or build step is required.
+Import this repository into Vercel using the Other framework preset. The build command is `bash scripts/build-catalog.sh` and the output directory is `dist`. No package installation is required. The photo packs stay in Git; the deployment serves only the extracted photos.
 
 ## Fabric studio
 
@@ -23,3 +23,11 @@ The 12 upholstery swatches supplied by the client are tagged `approved` in the f
 ## Client-selected tiles
 
 Eight uploaded photos correspond to six distinct tile designs. Exact image duplicates (uploads 2/7 and 3/9) share one option. Tile dimensions, grout and surface finish are user-adjustable visual assumptions until the actual specifications are supplied. Source references are in `assets/tiles/catalog.json`; no product price is inferred from the photos.
+
+## Curtain catalogue import
+
+The 15 October 2026 snapshot of TACC category 9113 includes 1,341 products, with 1,299 official product photos. The two earlier curtain entries outside this category are retained. Use search, plain/patterned filters, price sorting and 24-item pages in Fabric → Curtains. Source links, source image URLs, widths, category names and listed prices are preserved in `assets/curtains/imported-catalog.js`. No per-metre rate is inferred from a listing price. The 42 records with no photo are listed but cannot be applied to the preview.
+
+Photos are resized to a maximum of 700 pixels and encoded as WebP, without colour changes, pattern generation or AI processing. Browser images and texture maps are served locally. Texture preparation and pattern scaling remain illustrative; compare the original swatch and physical fabric.
+
+To refresh, install Python Pillow, then run `python3 scripts/import-curtains.py --download`. Review the changed catalogue and photo packs, run `bash scripts/build-catalog.sh`, and deploy. `--source /path/to/products.json` can use a previously fetched WooCommerce Store API snapshot.

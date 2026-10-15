@@ -1,12 +1,6 @@
 {
   "framework": null,
-  "buildCommand": null,
+  "buildCommand": "bash scripts/build-catalog.sh",
   "installCommand": null,
-  "outputDirectory": ".",
-  "rewrites": [
-    {
-      "source": "/tacc-media/:path*",
-      "destination": "https://tacc.co.ke/wp-content/uploads/:path*"
-    }
-  ]
+  "outputDirectory": "dist"
 }
