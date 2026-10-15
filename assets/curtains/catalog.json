@@ -1,0 +1,338 @@
+[
+  {
+    "id": "curtain-405873",
+    "name": "Sunset Collection: Mistui Polyester Curtain Fabric; 280cm, Ash",
+    "price": 1950.0,
+    "width": 280,
+    "uses": [
+      "curtain"
+    ],
+    "color": "#a5a1a9",
+    "kind": "linen",
+    "perMetre": false,
+    "ref": "QSUNSET \u00b7 Ash",
+    "url": "https://tacc.co.ke/product/sunset-collection-mistui-polyester-curtain-fabric-280cm-ash/",
+    "image": "assets/curtains/curtain-405873.webp",
+    "texture": "assets/curtains/curtain-405873-texture.webp",
+    "textureAspect": 1.0,
+    "repeat": 2,
+    "checked": true,
+    "checkedDate": "15 October 2026",
+    "patterned": false
+  },
+  {
+    "id": "curtain-405808",
+    "name": "Sunset Collection: Mistui Polyester Curtain Fabric; 280cm, White",
+    "price": 1950.0,
+    "width": 280,
+    "uses": [
+      "curtain"
+    ],
+    "color": "#b8b6bc",
+    "kind": "linen",
+    "perMetre": false,
+    "ref": "QSUNSET \u00b7 White",
+    "url": "https://tacc.co.ke/product/sunset-collection-mistui-polyester-curtain-fabric-280cm-white/",
+    "image": "assets/curtains/curtain-405808.webp",
+    "texture": "assets/curtains/curtain-405808-texture.webp",
+    "textureAspect": 1.0,
+    "repeat": 2,
+    "checked": true,
+    "checkedDate": "15 October 2026",
+    "patterned": false
+  },
+  {
+    "id": "curtain-185464",
+    "name": "Dupion Collection: Black Out Polyester Curtain Fabric; 280cm, White",
+    "price": 1750.0,
+    "width": 280,
+    "uses": [
+      "curtain"
+    ],
+    "color": "#d8d6d7",
+    "kind": "linen",
+    "perMetre": false,
+    "ref": "QDUPION2 \u00b7 1",
+    "url": "https://tacc.co.ke/product/dupion-collection-black-out-polyester-curtain-fabric-280cm-white/",
+    "image": "assets/curtains/curtain-185464.webp",
+    "texture": "assets/curtains/curtain-185464-texture.webp",
+    "textureAspect": 1.0,
+    "repeat": 2,
+    "checked": true,
+    "checkedDate": "15 October 2026",
+    "patterned": false
+  },
+  {
+    "id": "curtain-130591",
+    "name": "Mozart Texturted Leaf Patterned Polyester Curtain Fabric; 280cm, White",
+    "price": 1500.0,
+    "width": 280,
+    "uses": [
+      "curtain"
+    ],
+    "color": "#c2c8c7",
+    "kind": "floral",
+    "perMetre": false,
+    "ref": "QMOZART \u00b7 8",
+    "url": "https://tacc.co.ke/product/mozart-texturted-leaf-patterned-polyester-curtain-fabric-280cm-white/",
+    "image": "assets/curtains/curtain-130591.webp",
+    "texture": "assets/curtains/curtain-130591-texture.webp",
+    "textureAspect": 1.0,
+    "repeat": 2,
+    "checked": true,
+    "checkedDate": "15 October 2026",
+    "patterned": true
+  },
+  {
+    "id": "curtain-130589",
+    "name": "Mozart Texturted Chevron Patterned Polyester Curtain Fabric; 280cm, White",
+    "price": 1500.0,
+    "width": 280,
+    "uses": [
+      "curtain"
+    ],
+    "color": "#c0c6c4",
+    "kind": "floral",
+    "perMetre": false,
+    "ref": "QMOZART \u00b7 7",
+    "url": "https://tacc.co.ke/product/mozart-texturted-chevron-patterned-polyester-curtain-fabric-280cm-white/",
+    "image": "assets/curtains/curtain-130589.webp",
+    "texture": "assets/curtains/curtain-130589-texture.webp",
+    "textureAspect": 1.0,
+    "repeat": 2,
+    "checked": true,
+    "checkedDate": "15 October 2026",
+    "patterned": true
+  },
+  {
+    "id": "curtain-130563",
+    "name": "Mozart Texturted Leaf Patterned Polyester Curtain Fabric; 280cm, Light Blue",
+    "price": 1500.0,
+    "width": 280,
+    "uses": [
+      "curtain"
+    ],
+    "color": "#869a96",
+    "kind": "floral",
+    "perMetre": false,
+    "ref": "QMOZART \u00b7 20",
+    "url": "https://tacc.co.ke/product/mozart-texturted-leaf-patterned-polyester-curtain-fabric-280cm-light-blue-2/",
+    "image": "assets/curtains/curtain-130563.webp",
+    "texture": "assets/curtains/curtain-130563-texture.webp",
+    "textureAspect": 1.0,
+    "repeat": 2,
+    "checked": true,
+    "checkedDate": "15 October 2026",
+    "patterned": true
+  },
+  {
+    "id": "curtain-130543",
+    "name": "Mozart Texturted Chevron Patterned Polyester Curtain Fabric; 280cm, Beige",
+    "price": 1500.0,
+    "width": 280,
+    "uses": [
+      "curtain"
+    ],
+    "color": "#bcb8a1",
+    "kind": "floral",
+    "perMetre": false,
+    "ref": "QMOZART \u00b7 11",
+    "url": "https://tacc.co.ke/product/mozart-texturted-chevron-patterned-polyester-curtain-fabric-280cm-beige/",
+    "image": "assets/curtains/curtain-130543.webp",
+    "texture": "assets/curtains/curtain-130543-texture.webp",
+    "textureAspect": 1.0,
+    "repeat": 2,
+    "checked": true,
+    "checkedDate": "15 October 2026",
+    "patterned": true
+  },
+  {
+    "id": "curtain-114715",
+    "name": "Newton Collection: Chambray Curtain Fabric; 288cm, Blue",
+    "price": 1800.0,
+    "width": 288,
+    "uses": [
+      "curtain"
+    ],
+    "color": "#728f9b",
+    "kind": "floral",
+    "perMetre": false,
+    "ref": "QNEWTON \u00b7 40",
+    "url": "https://tacc.co.ke/product/newton-collection-chambray-curtain-fabric-288cm-blue/",
+    "image": "assets/curtains/curtain-114715.webp",
+    "texture": "assets/curtains/curtain-114715-texture.webp",
+    "textureAspect": 1.0,
+    "repeat": 2,
+    "checked": true,
+    "checkedDate": "15 October 2026",
+    "patterned": true
+  },
+  {
+    "id": "curtain-114708",
+    "name": "Newton Collection: Zigzag Curtain Fabric; 288cm, Sage",
+    "price": 1800.0,
+    "width": 288,
+    "uses": [
+      "curtain"
+    ],
+    "color": "#a2af99",
+    "kind": "floral",
+    "perMetre": false,
+    "ref": "QNEWTON \u00b7 27",
+    "url": "https://tacc.co.ke/product/newton-collection-zigzag-curtain-fabric-288cm-sage/",
+    "image": "assets/curtains/curtain-114708.webp",
+    "texture": "assets/curtains/curtain-114708-texture.webp",
+    "textureAspect": 1.0,
+    "repeat": 2,
+    "checked": true,
+    "checkedDate": "15 October 2026",
+    "patterned": true
+  },
+  {
+    "id": "curtain-87020",
+    "name": "Samara Collection: Rectangles seamless vector patterned Curtain Fabric, 280cm, Navy Blue/Beige/Off White",
+    "price": 900.0,
+    "width": 280,
+    "uses": [
+      "curtain"
+    ],
+    "color": "#cdcac6",
+    "kind": "floral",
+    "perMetre": false,
+    "ref": "QSAMARA \u00b7 32",
+    "url": "https://tacc.co.ke/product/samara-collection-rectangles-seamless-vector-patterned-curtain-fabric-280cm-navy-blue-beige-off-white/",
+    "image": "assets/curtains/curtain-87020.webp",
+    "texture": "assets/curtains/curtain-87020-texture.webp",
+    "textureAspect": 1.0,
+    "repeat": 2,
+    "checked": true,
+    "checkedDate": "15 October 2026",
+    "patterned": true
+  },
+  {
+    "id": "curtain-86993",
+    "name": "Samara Collection: Rectangles seamless vector patterned Curtain Fabric, 280cm, Blue/Off White",
+    "price": 900.0,
+    "width": 280,
+    "uses": [
+      "curtain"
+    ],
+    "color": "#ced0cb",
+    "kind": "floral",
+    "perMetre": false,
+    "ref": "QSAMARA \u00b7 23",
+    "url": "https://tacc.co.ke/product/samara-collection-rectangles-seamless-vector-patterned-curtain-fabric-280cm-blue-off-white/",
+    "image": "assets/curtains/curtain-86993.webp",
+    "texture": "assets/curtains/curtain-86993-texture.webp",
+    "textureAspect": 1.0,
+    "repeat": 2,
+    "checked": true,
+    "checkedDate": "15 October 2026",
+    "patterned": true
+  },
+  {
+    "id": "curtain-86939",
+    "name": "Samara Collection: Rectangles seamless vector patterned Curtain Fabric, 280cm, Light Green/Off White",
+    "price": 900.0,
+    "width": 280,
+    "uses": [
+      "curtain"
+    ],
+    "color": "#d8d5c9",
+    "kind": "floral",
+    "perMetre": false,
+    "ref": "QSAMARA \u00b7 5",
+    "url": "https://tacc.co.ke/product/samara-collection-rectangles-seamless-vector-patterned-curtain-fabric-280cm-light-green-off-white/",
+    "image": "assets/curtains/curtain-86939.webp",
+    "texture": "assets/curtains/curtain-86939-texture.webp",
+    "textureAspect": 1.0,
+    "repeat": 2,
+    "checked": true,
+    "checkedDate": "15 October 2026",
+    "patterned": true
+  },
+  {
+    "id": "curtain-86677",
+    "name": "Misha Collection: Curtain Fabric; 280cm, Teal Blue",
+    "price": 1950.0,
+    "width": 280,
+    "uses": [
+      "curtain"
+    ],
+    "color": "#1997a0",
+    "kind": "linen",
+    "perMetre": false,
+    "ref": "QMISHA \u00b7 12",
+    "url": "https://tacc.co.ke/product/misha-collection-curtain-fabric-280cm-teal-blue/",
+    "image": "assets/curtains/curtain-86677.webp",
+    "texture": "assets/curtains/curtain-86677-texture.webp",
+    "textureAspect": 1.0,
+    "repeat": 2,
+    "checked": true,
+    "checkedDate": "15 October 2026",
+    "patterned": false
+  },
+  {
+    "id": "curtain-86674",
+    "name": "Misha Collection: Curtain Fabric; 280cm, Beige",
+    "price": 1950.0,
+    "width": 280,
+    "uses": [
+      "curtain"
+    ],
+    "color": "#e5e1cf",
+    "kind": "linen",
+    "perMetre": false,
+    "ref": "QMISHA \u00b7 11",
+    "url": "https://tacc.co.ke/product/misha-collection-curtain-fabric-280cm-beige/",
+    "image": "assets/curtains/curtain-86674.webp",
+    "texture": "assets/curtains/curtain-86674-texture.webp",
+    "textureAspect": 1.0,
+    "repeat": 2,
+    "checked": true,
+    "checkedDate": "15 October 2026",
+    "patterned": false
+  },
+  {
+    "id": "curtain-114620",
+    "name": "Epic Zero Sun Collection: Mitsui Black Out Polyester Curtain Fabric, 280cm, Pale silver",
+    "price": 1750.0,
+    "width": 280,
+    "uses": [
+      "curtain"
+    ],
+    "color": "#cdc2bf",
+    "kind": "linen",
+    "perMetre": false,
+    "ref": "QEPIC \u00b7 14",
+    "url": "https://tacc.co.ke/product/epic-zero-sun-collection-mitsui-black-out-polyester-curtain-fabric-280cm-pale-silver/",
+    "image": "assets/curtains/curtain-114620.webp",
+    "texture": "assets/curtains/curtain-114620-texture.webp",
+    "textureAspect": 1.0,
+    "repeat": 2,
+    "checked": true,
+    "checkedDate": "15 October 2026",
+    "patterned": false
+  },
+  {
+    "id": "curtain-86659",
+    "name": "Misha Collection: Curtain Fabric; 280cm, Light Purple",
+    "price": 1950.0,
+    "width": 280,
+    "uses": [
+      "curtain"
+    ],
+    "color": "#9ca2a4",
+    "kind": "linen",
+    "perMetre": false,
+    "ref": "QMISHA \u00b7 6",
+    "url": "https://tacc.co.ke/product/misha-collection-curtain-fabric-280cm-light-purple/",
+    "image": "assets/curtains/curtain-86659.webp",
+    "texture": "assets/curtains/curtain-86659-texture.webp",
+    "textureAspect": 1.0,
+    "repeat": 2,
+    "checked": true,
+    "checkedDate": "15 October 2026",
+    "patterned": false
+  }
+]
