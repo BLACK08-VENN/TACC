@@ -74,3 +74,5 @@ body.studio-active{height:100dvh;overflow:hidden;display:flex;flex-direction:col
 @media(max-height:500px) and (orientation:landscape){#curtain-inspection-tools{top:60px;width:238px;padding:6px;gap:2px}#curtain-inspection-tools label{min-height:24px}.curtain-corner-price{padding-top:4px;gap:2px}.curtain-corner-price strong{font-size:17px}}
 
 .curtain-catalog-controls{margin:14px 0}.curtain-catalog-filters{display:grid;grid-template-columns:1fr 1fr;gap:8px}.curtain-catalog-controls input,.curtain-catalog-controls select{min-height:48px;width:100%}.curtain-catalog-paging{display:flex;align-items:center;justify-content:space-between;gap:8px;flex-wrap:wrap;margin:16px 0}.curtain-catalog-paging button{min-height:48px}.curtain-catalog-paging>span{font-size:12px}.curtain-catalog-paging .note{flex-basis:100%}.fabric-photo-unavailable{display:grid;place-items:center;min-height:110px;background:#f5f0ee;color:var(--muted);font-size:12px}.material-grid button:disabled{opacity:.65;cursor:default}
+
+#undo{margin-left:auto;white-space:nowrap;border-color:var(--pink-line);color:var(--pink)}#undo:disabled{opacity:.4;cursor:default}.interaction-tools{flex-wrap:wrap}
