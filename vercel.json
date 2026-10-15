@@ -2,5 +2,11 @@
   "framework": null,
   "buildCommand": null,
   "installCommand": null,
-  "outputDirectory": "."
+  "outputDirectory": ".",
+  "rewrites": [
+    {
+      "source": "/tacc-media/:path*",
+      "destination": "https://tacc.co.ke/wp-content/uploads/:path*"
+    }
+  ]
 }
